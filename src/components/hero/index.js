@@ -17,9 +17,9 @@ const Hero = (props) => {
                                     <h2>Growing in Missionary <span>Member Care</span></h2>
                                 </div>
                                 <div className="slide-subtitle">
-                                    <span style={{ float: "right"}}>
+                                    <span>
                                         <p className='carey-quote'>"I will go, but you must hold the rope."</p>
-                                        <p style={{ float: "right"}}> - William Carey</p>
+                                        <p> - William Carey</p>
                                     </span>
 
                                 </div>
